@@ -1,3 +1,3 @@
 CoreData practice
 
-<img width="447" alt="Снимок экрана 2024-08-27 в 17 29 37" src="https://github.com/user-attachments/assets/dba59565-e410-45d4-ae2b-efb3b5e74ed8">
+![Simulator Screenshot - iPhone 15 Pro - 2024-08-30 at 14 01 17](https://github.com/user-attachments/assets/81079055-3ca8-4896-91a2-a33e5b8ffe42)
